@@ -1,4 +1,4 @@
-Access live GH pages: https://thinkful-ei-leopard.github.io/raina-bookmarks-app/
+Access live GH pages: https://thinkful-ei-leopard.github.io/ben-bookmarks-app/
 User Stories
 As a User:
 
